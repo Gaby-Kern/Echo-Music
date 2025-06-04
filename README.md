@@ -26,7 +26,7 @@ Dada a sensibilidade dos dados reais, o projeto trabalha com **dados sintéticos
 - Web scraping para dados públicos, respeitando políticas de uso.
 - Integração com sistemas de câmeras públicas e sensores urbanos.
 - Uso de dados públicos históricos para análise de ocorrências policiais e transporte.
-
+**Por motivos de segurança de dados pessoais e privados, foram geradas tabelas com dados sintéticos. Os dados foram criados com ferramentas e bibliotecas generativas.** 
 ---
 
 ## Insights Obtidos
