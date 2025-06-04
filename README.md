@@ -1,6 +1,6 @@
-# Monitoramento e Análise de Eventos de Grande Porte
+# Monitoramento e análise de eventos de grande porte
 
-## Descrição do Projeto
+## Descrição do projeto
 
 Este projeto visa desenvolver uma metodologia para monitorar, em tempo real, o comportamento e os riscos associados a grandes eventos públicos, como shows, festivais, manifestações e eventos esportivos. Utilizamos diversas fontes de dados para antecipar possíveis tumultos, incidentes de segurança, problemas de mobilidade e condições climáticas que possam impactar a segurança e o conforto dos participantes.
 
@@ -8,7 +8,7 @@ Dada a sensibilidade dos dados reais, o projeto trabalha com **dados sintéticos
 
 ---
 
-## Fontes de Dados Utilizadas
+## Fontes de dados utilizadas
 
 - **Redes Sociais** (Twitter/X, Instagram, Facebook, TikTok) — análise de discursos e engajamento em publicações.
 - **Câmeras Públicas de Monitoramento** — detecção de aglomerações, veículos parados e pessoas caídas.
@@ -20,7 +20,7 @@ Dada a sensibilidade dos dados reais, o projeto trabalha com **dados sintéticos
 
 ---
 
-## Metodologia de Coleta
+## Metodologia de coleta
 
 - APIs oficiais e ferramentas especializadas para acesso a redes sociais e dados meteorológicos.
 - Web scraping para dados públicos, respeitando políticas de uso.
@@ -29,7 +29,7 @@ Dada a sensibilidade dos dados reais, o projeto trabalha com **dados sintéticos
 **Por motivos de segurança de dados pessoais e privados, foram geradas tabelas com dados sintéticos. Os dados foram criados com ferramentas e bibliotecas generativas.** 
 ---
 
-## Insights Obtidos
+## Insights obtidos
 
 ### Redes Sociais  
 - Predominância de discursos neutros, com aumento gradual de comentários negativos em plataforma específica (Paxarinho).  
@@ -61,7 +61,7 @@ Dada a sensibilidade dos dados reais, o projeto trabalha com **dados sintéticos
 
 ---
 
-## Uso do Projeto
+## Uso do projeto
 
 Este projeto serve como base para equipes de segurança, organizadores de eventos e pesquisadores interessados em:
 
